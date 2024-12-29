@@ -1,0 +1,2 @@
+# Silent ZeroDivisionError in Python
+This repository demonstrates a subtle error in a Python function that could lead to unexpected behavior. The function `function_with_uncommon_error` handles division by zero in a way that might not raise a ZeroDivisionError, making it more difficult to detect during testing.
